@@ -32,10 +32,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "AMIR",
+    "BOTNAME": "FYTER",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100002990590891",
+        "100001749311229",
         "",
         "",
         "",
@@ -46,8 +46,8 @@
         ""
     ],
     "NDH": [
-        "100002990590891",
-        "100094547994769",
+        "100001749311229",
+        "",
         "",
         "",
         "",
@@ -63,7 +63,7 @@
     "OWNER": "",
     "AGE": "22",
     "GENDER": "male",
-    "FACEBOOK": "100000862816633",
+    "FACEBOOK": "100001749311229",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "01:00",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
